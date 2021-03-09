@@ -21,5 +21,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="MoveLineUp" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RerunTests" />
   <action id="sql.SelectInDatabaseView" />
 </keymap>
