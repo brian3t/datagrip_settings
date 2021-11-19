@@ -1,5 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="7">
+    <option name="page-size-updated-timestamp" value="1637298389489" />
+    <option name="auto-transpose-mode" value="ONE_ROW" />
     <option name="warn-unsafe-query" value="false" />
     <text-mode>
       <parameter-patterns>
