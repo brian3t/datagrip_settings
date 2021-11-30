@@ -5,6 +5,9 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="Console.Jdbc.Terminate" />
   <action id="Console.TableResult.EditFilterCriteria">
