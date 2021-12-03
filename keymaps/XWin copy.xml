@@ -38,6 +38,10 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorToggleCase" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -50,7 +54,10 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="MoveLineDown" />
   <action id="MoveLineUp" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -79,5 +86,6 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="XDebugger.MoveWatchDown" />
   <action id="sql.SelectInDatabaseView" />
 </keymap>
