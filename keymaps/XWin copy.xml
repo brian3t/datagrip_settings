@@ -36,6 +36,9 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord">
